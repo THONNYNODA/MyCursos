@@ -1,3 +1,3 @@
-# MyCursos
+# Projetos DankiCode
 
-Esses sao os projetos feito em cursos 
+Esses sao os projetos feito no curso DAnkiCode...
